@@ -1,2 +1,2 @@
 # To-Do List
-A web application that allows addition and removal of to-do’s using HTML/CSS, JavaScript, and jQuery.
+A web application that allows addition and removal of TODO items using HTML/CSS, JavaScript, and jQuery.
